@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031342353710",
+    "firebase_url": "https://moda-fcf47.firebaseio.com",
+    "project_id": "moda-fcf47",
+    "storage_bucket": "moda-fcf47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031342353710:android:31d26333ccba056458debf",
+        "android_client_info": {
+          "package_name": "com.example.moda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031342353710-9dem51u2gd8sqhblk66ltlej3lu32lt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moda",
+            "certificate_hash": "8349f71fc9e68e452a0b94f888112bb43d992d9b"
+          }
+        },
+        {
+          "client_id": "1031342353710-ekv5pfoc3htdra2qptk09vu39bi2q65n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-f2V3bprydtn3w9DMxRj71_P17aE-GIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031342353710-ekv5pfoc3htdra2qptk09vu39bi2q65n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
